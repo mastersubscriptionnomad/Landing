@@ -1,0 +1,45 @@
+body 
+{font-family: Roboto, Helvetica, sans-serif;}
+
+#header
+{background: #1f2937;
+color: #e5e7eb;}
+
+#intro
+{font-size: 18px}
+
+#main 
+{background-color: white;}
+
+#main h2
+{color: black;}
+
+#quote
+{background-color: #e5e7eb;
+font-size: 36px;
+font-weight: 300;}
+
+#Action
+{background-color: #3882f6;
+color: #f9faf8;}
+
+#footer
+{background-color: #1f2937;
+color: #e5e7eb;}
+
+h2 
+{font-size: 24px;
+color: #f9faf8;}
+h1 
+{font-size: 48px;
+font-weight: 900;
+color: #f9faf8;}
+
+ul
+{font-size: 18px;}
+
+button 
+{background-color: #3882f6;
+color: white;}
+
+
